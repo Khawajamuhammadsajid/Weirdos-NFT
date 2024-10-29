@@ -4,20 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/codebucks27/The-Weirdos-NFT-Website-Starter-Code?style=social&logo=KashFlow)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow&maxAge=2592000)&nbsp;&nbsp;<br />
 
-This repository contains starter code for NFT Collection Website in ReactJS. <br />
 
-For the **Demo** and **Final Code** checkout this link👇: <br />
-<a href="https://devdreaming.com/videos/create-nft-collection-website-reactjs#overview" target="_blank">Checkout this mobile responsive NFT collection website built with ReactJS</a> <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/edr2o59Twrs <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/edr2o59Twrs?style=social)](https://youtu.be/edr2o59Twrs)<br />
-
-⭐⭐⭐⭐ This repo is nominated in [Top How To Nft Open-Source Projects on Github](https://gitclone.dev/top-how-to-nft-open-source-projects-on-github/).
-
-### NOTE:  <br />
-There is one change in the Button.js File.  <br />
-Wrap Btn inside Link component like below for the link to work.
 ```
 <a href={link} aria-label={text} target="_blank" rel="noreferrer" >
 <Btn>{text}</Btn>
@@ -30,28 +17,6 @@ Wrap Btn inside Link component like below for the link to work.
 ![HOME](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home-1%20-%20Mobile.png)
 ![MENU](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home-2-%20Mobile.png)
 
-
-### Resources Used in This Project
-
-Character Figures: https://bigheads.io/ <br />
-Fonts: https://fontsource.org/ <br />
-Svg Icons From: https://icons8.com & https://freesvg.org/   <br />
-
-### External Libraries used in this project: 
-
-[styled-components](https://styled-components.com/docs/advanced) <br />
-[GSAP](https://greensock.com/gsap/) <br />
-[type-writer effect](https://www.npmjs.com/package/typewriter-effect) <br />
-[react-confetti](https://www.npmjs.com/package/react-confetti) <br />
-[react-use](https://www.npmjs.com/package/react-use) <br />
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
@@ -92,27 +57,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Weirdos-NFT" 
